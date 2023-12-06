@@ -164,3 +164,15 @@ background-color: none;
 margin-left: 10px;
 
 }
+
+.videocontainer {
+  display:block;
+  padding:40px;
+margin-left: 20%;
+margin-right: 20%;
+  align-items: center;
+text-align: center;
+background-color: #1a1a39;
+ border-radius: 10px;
+}
+
